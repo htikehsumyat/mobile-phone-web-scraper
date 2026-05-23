@@ -24,6 +24,7 @@ The scraper automatically:
 
 ## Installation
 1. Clone the repository: git clone https://github.com/your-username/mobile-phone-web-scraper.git
+
 Navigate to the project folder: cd mobile-phone-web-scraper
 
 2. Install required libraries: pip install -r requirements.txt
